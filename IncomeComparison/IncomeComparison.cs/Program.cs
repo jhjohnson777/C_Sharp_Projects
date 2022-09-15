@@ -27,7 +27,7 @@ namespace IncomeComparison.cs
             double H1 = Convert.ToDouble(inputH1);
 
             // annual salary of person 1
-            double yearlySal1 = HR1 * H1 * 50;
+            double yearlySal1 = HR1 * H1 * 52;
             decimal yearly1 = Convert.ToDecimal(yearlySal1);
 
             // second person
@@ -44,7 +44,7 @@ namespace IncomeComparison.cs
             double H2 = Convert.ToDouble(inputH2);
 
             // annual salary of person 2
-            double yearlySal2 = HR2 * H2 * 50;
+            double yearlySal2 = HR2 * H2 * 52;
             decimal yearly2 = Convert.ToDecimal(yearlySal2);
 
             // Displays annual salaries for person 1 and person 2
