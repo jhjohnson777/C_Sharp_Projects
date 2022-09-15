@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\bin\Debug\Math.cs.exe.config
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\bin\Debug\Math.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\bin\Debug\Math.cs.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\obj\Debug\Math.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\obj\Debug\Math.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\obj\Debug\Math.cs.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\Math.cs\Math.cs\obj\Debug\Math.cs.csproj.AssemblyReference.cache

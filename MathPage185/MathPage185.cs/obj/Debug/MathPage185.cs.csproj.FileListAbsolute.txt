@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\bin\Debug\MathPage185.cs.exe.config
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\bin\Debug\MathPage185.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\bin\Debug\MathPage185.cs.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\obj\Debug\MathPage185.cs.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\obj\Debug\MathPage185.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\obj\Debug\MathPage185.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\MathPage185\MathPage185.cs\obj\Debug\MathPage185.cs.pdb
