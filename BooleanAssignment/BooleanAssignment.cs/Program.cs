@@ -26,7 +26,8 @@ namespace BooleanAssignment.cs
             // printing the response.
             Console.WriteLine("Qualified?");
             bool canInsure = userAge > 15 && userDUI == false && userTicket <= 3;
-            Console.WriteLine(canInsure);
+            string result = canInsure == true ? "You qualify for car insurance." : "You do not qualify.";
+            Console.WriteLine(result);
 
             Console.Read();
 
