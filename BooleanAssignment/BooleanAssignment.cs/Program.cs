@@ -25,7 +25,7 @@ namespace BooleanAssignment.cs
             // Created a boolean variable based on comparing the data provided above and then
             // printing the response.
             Console.WriteLine("Qualified?");
-            bool canInsure = userAge >= 15 && userDUI == false && userTicket <= 3;
+            bool canInsure = userAge > 15 && userDUI == false && userTicket <= 3;
             Console.WriteLine(canInsure);
 
             Console.Read();
