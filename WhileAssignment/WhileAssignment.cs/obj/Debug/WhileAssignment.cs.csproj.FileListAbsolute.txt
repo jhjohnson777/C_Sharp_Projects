@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\bin\Debug\WhileAssignment.cs.exe.config
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\bin\Debug\WhileAssignment.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\bin\Debug\WhileAssignment.cs.pdb
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\obj\Debug\WhileAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\obj\Debug\WhileAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\obj\Debug\WhileAssignment.cs.exe
+C:\Users\Student\Documents\GitHub\C_Sharp_Projects\WhileAssignment\WhileAssignment.cs\obj\Debug\WhileAssignment.cs.pdb
